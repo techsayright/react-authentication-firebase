@@ -1,0 +1,38 @@
+.mainNav a{
+    color: rgba(192, 192, 192, 0.664);
+    text-decoration: none;
+}
+
+.mainNav a:hover{
+    color: white;
+}
+.mainNav .active{
+    color: white;
+}
+
+.loginContainer form{
+    background-color: pink;
+}
+
+h5{
+    display: inline-block;
+    margin-bottom: 3rem;
+}
+
+h5:hover{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+    
+form{
+    padding: 50px;
+    margin: 0 20%;
+    background-color: rgba(0, 0, 255, 0.39);
+}
+
+
+input{
+    padding: 10px 15px;
+    font-size: 30px;
+}
